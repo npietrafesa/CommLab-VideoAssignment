@@ -1,10 +1,10 @@
 # Project Name
 # A Vampire Story 
  
-# Project Description: what is the project, what is the overall concept and theme, and what kind of experience you were striving to create.
+# Project Description:
 This project is the result of our team’s elaboration on the framework of option two from the assignment prompt. From our last remaining brain cells, we present “A Vampire Story.” The concept of this project was to create a series of videos that follow the odd story of a student investigation into the sighting of a vampire on campus. We wanted to create a Camp infused video experience that felt spontaneous and student-made. As for the video’s website, we wanted to hone in on the investigative and performative undertones of the video, finding ways to incorporate both true crime and theater related framing in our interactivity. We hope that all viewers will enjoy the seriousness with which we pursued the absurdity of our project.  
  
-# Process: How did you go about implementing the concept?
+# Process: 
 To keep our project organized, we worked in stages: 
 Script and Shot list: https://docs.google.com/document/d/1Lpt9Ya5PP_zbjpq2Nif8bAZbrwT6R30XWbuhB4oeOG8/edit?usp=sharing
 Linked above was our working script and shot list for the filming of this project. Influenced by our early plans for the website, we first decided the general frame of progression in the story (i.e. “the spotting,” “the pursuit”). Once we defined how the story would progress we generated ideas of what could happen in each scene with a focus on how we move from scene to scene with continuity. It was during the scripting process that we decided to make this project super campy, therefore, we also spent time generating jokes through the details of the plot and side characters. During the time spent compiling a shot list, we had to get on the same page about how to envision the visuals of the film. In making the shots list we were primarily concerned with the angles of the camera (i.e. taking video of Noah the vampire from slightly below and of Dev from headon) to signal a perceived power difference. We also wanted to collect shots that gave a range of angles and frame widths.  
@@ -16,5 +16,5 @@ We knew that we wanted to create short clips plotted along a timeline from the v
  
  
  
-# Reflection/Evaluation: This should bookend the initial concept and talk about whether your expectations and goals were met in the process of building the final working version.
+# Reflection/Evaluation:
 As this was our first time working to create a video experience, there was the need to make on the fly changes and decisions to our original scripting and shot list during filming and editing--a process which is detailed above. However, our overall goal was to be humorous and outlandish in the execution of our narrative and its presentation within the website it is housed. Despite changes during execution, we are all super proud of the final project. It was through the fine tuning of small details in our plot and website design that we were able to fulfill what we set out to create. 
