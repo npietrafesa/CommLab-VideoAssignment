@@ -1,4 +1,3 @@
-# Project Name
 # A Vampire Story 
  
 # Project Description:
